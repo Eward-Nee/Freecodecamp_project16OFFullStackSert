@@ -1,0 +1,18 @@
+body{
+    padding: 50px 0px;
+    margin: 0px auto 0px auto;
+    width: 100vw;
+    min-height: calc(100vh - 100px);
+}
+
+section{
+    width: 50%;
+    background-color: blanchedalmond;
+    color: red;
+}
+
+hr{
+    width: 50%;
+    background-color: blanchedalmond;
+    color: red;
+}
